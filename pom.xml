@@ -12,6 +12,7 @@
         <module>sharding-module</module>
         <module>sharding-common</module>
         <module>sharding-config</module>
+        <module>sharding-mybatis-generator</module>
     </modules>
 
 
